@@ -1,0 +1,61 @@
+   body{height: 2000px;}
+   
+   
+   
+   p{ color: rgb(218, 90, 186);
+
+}
+
+.pembekedi{
+    color: blue;
+}
+
+
+
+.buyukluk{
+
+    font-size: 100px
+
+}
+
+
+.blue{color: aquamarine;}
+
+
+h1{font-size:150px
+    ;}
+
+
+
+.arka{background-color: blueviolet;}
+
+
+.arkayeşil{
+background-color: rgb(36, 219, 119);
+}
+
+
+#mydiv
+
+.relativeDiv{
+    position: relative ;
+top: 20px;
+left: 30px;
+}
+
+.fix{
+    position: fixed;
+    top;10px;
+    left;10px;
+}
+
+.poz{
+    position: fixed;
+    top: 10px;
+    left:10px ;
+
+    padding: 50px;
+    margin: 50px;
+}
+
+
